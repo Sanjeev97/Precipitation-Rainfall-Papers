@@ -1,6 +1,8 @@
 # Rainfall Prediction Research Papers Collection
 
-A comprehensive collection of research papers on rainfall prediction, precipitation forecasting, and weather analysis using machine learning and computer vision techniques. This repository contains papers from top-tier conferences spanning from 2021 to 2025.
+A comprehensive collection of research papers on rainfall prediction, precipitation forecasting, and weather analysis using machine learning and computer vision techniques. This repository contains papers from top-tier conferences spanning from 2020 to 2025.
+
+Conferences scanned: IJCAI ICML KDD ICCV ECCV NeurIPS CIKM ECMLPKDD WACV AAAI ICLR AISTATS ECCR CVPR ICLR CVPR 
 
 ## 📊 Overview
 
