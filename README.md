@@ -6,7 +6,7 @@ A comprehensive collection of research papers on rainfall prediction, precipitat
 
 - **Total Papers**: 31 papers
 - **Conferences**: 11 different venues
-- **Year Range**: 2021-2025
+- **Year Range**: 2020-2025
 - **Research Focus**: Rainfall prediction, precipitation forecasting, weather analysis, satellite imagery processing
 
 ## 🏆 Conferences Included
