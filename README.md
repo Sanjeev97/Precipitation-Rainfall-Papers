@@ -44,6 +44,7 @@ Conferences scanned: IJCAI ICML KDD ICCV ECCV NeurIPS CIKM ECMLPKDD WACV AAAI IC
 ### 2024 (5 papers)
 - **AAAI-24**: Quantile-Regression-Ensemble: A Deep Learning Algorithm for Downscaling Extreme Precipitation (2 papers)
 - **ICML-24**: CasCast: Skillful High-Resolution Precipitation Nowcasting via Cascaded Modelling
+- **CVPR-24**: DiffCast: A Unified Framework via Residual Diffusion for Precipitation Nowcasting
 - **NeurIPS-24**: Fourier Amplitude and Correlation Loss: Beyond Using L2 Loss for Skillful Precipitation Nowcasting
 - **NeurIPS-24**: Precipitation Downscaling with Spatiotemporal Video Diffusion
 - **KDD-24**: Multi-scale Physics-informed Transformer for Precipitation Nowcasting
