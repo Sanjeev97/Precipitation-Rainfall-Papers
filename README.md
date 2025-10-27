@@ -30,6 +30,7 @@ Conferences scanned: IJCAI ICML KDD ICCV ECCV NeurIPS CIKM ECMLPKDD WACV AAAI IC
 ## 📚 Papers by Year
 
 ### 2025 (11 papers)
+- **CVOR-25**: AlphaPre: Amplitude-Phase Disentanglement Model for Precipitation Nowcasting 
 - **AAAI-25**: ERF: A Benchmark Dataset for Robust Semantic Segmentation Under Extreme Rainfall Conditions
 - **AAAI-25**: PrecipDiff: Leveraging Image Diffusion Models to Enhance Satellite-Based Precipitation Observations
 - **AAAI-25**: Data-driven Precipitation Nowcasting Using Satellite Imagery
